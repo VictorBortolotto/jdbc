@@ -12,11 +12,11 @@ public class View {
         Commands teste = new Commands();
         DataBase testeConexao = new DataBase();
 
-        Connection connection = testeConexao.openConnection();
-        testeConexao.checkConnectionStatus(connection);
-        testeConexao.closeConnection(connection);
+        teste.insert("users", "name", "Henrique Fernandez");;
+        //teste.update("users", "email", "henrique_fer@gmail.com", 9);
+        //teste.delete("users", 9);
 
-        //teste.select("name", "users", 6);
+        teste.selectAll("users");
 
     }
 

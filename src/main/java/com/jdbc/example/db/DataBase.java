@@ -56,6 +56,7 @@ public class DataBase {
             if(!preparedStatement.isClosed()){
 
                 preparedStatement.close();
+                System.out.println("The prepared statement are closed.");
 
             }
 

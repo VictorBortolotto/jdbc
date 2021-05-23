@@ -15,4 +15,3 @@ insert into users (name, email) values ('Tyler Hendricson', 'tylerhen@gmail.com'
 insert into users (name, email) values ('John Marks', 'johnnmark@gmail.com');
 insert into users (name, email) values ('Kathrine Waters', 'kath@gmail.com');
 insert into users (name, email) values ('Gabriel Henkins', 'gabhenkins@gmail.com');
-
