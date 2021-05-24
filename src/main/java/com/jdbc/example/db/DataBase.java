@@ -9,7 +9,7 @@ public class DataBase {
     
     private final String url = "jdbc:mysql://localhost:3306/jdbcexample";
     private final String user = "root";
-    private final String password = "vi01026984";
+    private final String password = "";
 
     public Connection openConnection(){
 
