@@ -68,28 +68,6 @@ public class DataBase {
 
     }
 
-    public void checkConnectionStatus(Connection connection){
-
-        try{
-
-            if(!connection.isClosed()){
-
-                System.out.println("Connection are open.");
-
-            }else{
-
-                System.out.println("Connection are closed.");
-
-            }
-
-        }catch(SQLException e){
-
-            e.printStackTrace();
-
-        }
-
-    }
-
     private String getUrl() { return url; }
 
     private String getUser() { return user; }
