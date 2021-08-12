@@ -4,8 +4,8 @@ use jdbcexample;
 
 create table users(
 	
-	user_id int auto_increment,
-	name varchar(50) not null,
+    user_id int auto_increment,
+    name varchar(50) not null,
     email varchar(100),
     primary key(user_id)
 
