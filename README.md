@@ -22,8 +22,6 @@
 
 $ git clone <https://github.com/VictorBortolotto/jdbc.git>
 
-# Now you just need run the main class in the view package
-
 # To use this application you can use the constructor with argument's user(<name>, <email>)
 # or you can use just the constructor the constructor whitout arguments user()
 # and call the method's insert, delete, update, selectAll or select
@@ -72,6 +70,8 @@ user.select("user", 1);
 
 user.selctAll("user");
 
+# Now you just need run the main class in the view package
+
 ```
 
 <h2 align="center"> Doc's Links </h2>
@@ -90,5 +90,5 @@ user.selctAll("user");
 Victor Augusto Campos Bortolotto
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-augusto-campos-bortolotto/)](https://www.linkedin.com/in/victor-augusto-campos-bortolotto/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-augusto-campos-bortolotto/)](https://www.linkedin.com/in/victor-augusto-campos-bortolotto/) 
 [![Gmail Badge](https://img.shields.io/badge/-victorcamposbortolottowork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorcamposbortolottowork@gmail.com)](mailto:victorcamposbortolottowork@gmail.com)
