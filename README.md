@@ -11,6 +11,7 @@
 <p align="center">
     <a href="https://maven.apache.org/download.cgi">MAVEN 3.6.3</a> <br/>
     <a href="https://www.oracle.com/java/technologies/javase-jdk16-downloads.html">JDK 16.0.2</a> <br/>
+    <a href="https://www.mysql.com/downloads/">MySQL</a> <br/>
 </p>
 
 <h2 align="center"> Running the application </h2>
@@ -89,5 +90,5 @@ user.selctAll("user");
 Victor Augusto Campos Bortolotto
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-augusto-campos-bortolotto-5517b8187/)](https://www.linkedin.com/in/victor-augusto-campos-bortolotto/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-augusto-campos-bortolotto/)](https://www.linkedin.com/in/victor-augusto-campos-bortolotto/) 
 [![Gmail Badge](https://img.shields.io/badge/-victorcamposbortolottowork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorcamposbortolottowork@gmail.com)](mailto:victorcamposbortolottowork@gmail.com)
