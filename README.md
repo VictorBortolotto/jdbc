@@ -22,9 +22,9 @@
 
 $ git clone <https://github.com/VictorBortolotto/jdbc.git>
 
-# To use this application you can use the constructor with argument's user(<name>, <email>)
+# To use this application you can use the constructor with arguments user(<name>, <email>)
 # or you can use just the constructor the constructor whitout arguments user()
-# and call the method's insert, delete, update, selectAll or select
+# and call the methods insert, delete, update, selectAll or select
 
 Users user = new Users("Jack", "Jack@gmail.com");
 
